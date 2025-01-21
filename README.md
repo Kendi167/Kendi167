@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kendi167
+- 👋 Hi, I’m @Ronnie
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on building projects
-- 📫 How to reach me lindakendi167@gmail.com
+- 📫 How to reach me theeron13@gmail.com
 
 
 <!---
